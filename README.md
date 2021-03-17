@@ -1,5 +1,7 @@
 # vue-app
 
+Learning vue.js, maknig a task tracker app.
+
 ## Project setup
 ```
 npm install
